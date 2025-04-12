@@ -1,9 +1,9 @@
-# Personal portfolio website.
+
 # Hi there, I'm Getalem Sisay👋
 
 ---
 <div style="display: flex; align-items: left;">
-  <img src="https://github.com/Gech-2030/Gech-portfolio/raw/main/assets/git.jpg" alt="Profile Picture" width="200" style="margin-right: 20px;"/>
+ 
   <div>
     <p>
       I'm a passionate <strong>Software Developer</strong> with expertise in building modern web applications. I specialize in creating responsive front-end interfaces and scalable back-end systems. I'm always exploring new technologies and techniques to improve my craft.
