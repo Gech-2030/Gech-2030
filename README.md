@@ -39,7 +39,7 @@ I'm always open to new challenges, collaborations, and opportunities. You can re
 
 - 📧 **Email**: [gechsisay200@gmail.com](mailto:your.email@example.com)
 - 🌐 **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/getalem-sisay-9a40a8291)
-- 🌍 **Portfolio**: [wait-for-portfolio-link](https://your-portfolio-link.com)
+- 🌍 **Portfolio**: [wait-for-portfolio-link](https://gech-portfolio.vercel.app)
 
 ---
 
